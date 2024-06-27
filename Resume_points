@@ -1,0 +1,14 @@
+Designed and developed interactive dashboards using Google Analytics and Looker Studio at Adani One. These dashboards effectively tracked key performance indicators (KPIs) 
+and identified trends, while also communicating insights to non-technical stakeholders
+
+Developed a content generation model using GPT-4 API and integrated LLMs via Langchain framework, leveraging output parsers for efficient content creation.\
+Employed the multimodal CLIP model to evaluate aesthetic scores and categorize images for the Adani One website 
+
+Designed and implemented a content generation model using the GPT-4 API, seamlessly integrating LLMs through the Langchain framework. 
+The model featured three hierarchical levels of content, each building upon the other. Additionally, I optimized the code to produce unique descriptions
+with an ideal balance of burstiness and complexity
+
+Successfully implemented the multimodal CLIP model for image classification and further refined an aesthetic scoring system to curate and select optimal
+images for the Adani One website.
+
+Detected inconsistencies in data sources and implemented robust data validation and reconciliation, resulting in a 40% reduction in data issues.
